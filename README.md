@@ -1,4 +1,4 @@
-<a href="https://github.com/hrnugr/form-app">Visit [Demo]</a>
+<a href="https://hrnugr.github.io/form-app/">Visit [Demo]</a>
 
 ## Available Scripts
 
