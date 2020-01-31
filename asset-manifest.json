@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/form-app/static/css/main.033fa0d5.chunk.css",
+    "main.js": "/form-app/static/js/main.e2484819.chunk.js",
+    "main.js.map": "/form-app/static/js/main.e2484819.chunk.js.map",
+    "runtime-main.js": "/form-app/static/js/runtime-main.bbebb0d0.js",
+    "runtime-main.js.map": "/form-app/static/js/runtime-main.bbebb0d0.js.map",
+    "static/js/2.5c292a0c.chunk.js": "/form-app/static/js/2.5c292a0c.chunk.js",
+    "static/js/2.5c292a0c.chunk.js.map": "/form-app/static/js/2.5c292a0c.chunk.js.map",
+    "index.html": "/form-app/index.html",
+    "precache-manifest.7c0327a9b65a8bab58b9ccd4778b9de3.js": "/form-app/precache-manifest.7c0327a9b65a8bab58b9ccd4778b9de3.js",
+    "service-worker.js": "/form-app/service-worker.js",
+    "static/css/main.033fa0d5.chunk.css.map": "/form-app/static/css/main.033fa0d5.chunk.css.map",
+    "static/js/2.5c292a0c.chunk.js.LICENSE.txt": "/form-app/static/js/2.5c292a0c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bbebb0d0.js",
+    "static/js/2.5c292a0c.chunk.js",
+    "static/css/main.033fa0d5.chunk.css",
+    "static/js/main.e2484819.chunk.js"
+  ]
+}
